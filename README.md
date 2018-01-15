@@ -3,3 +3,5 @@ La tasca que he fet, ha estat crear l'html, el css, i el java script del joc que
 Un dels problemes que he tengut ha estat fer que una vegada la nau toca la lluna no pugui tornar a despegar, però al final ho he aconseguit.
 Finalment he aconseguit que el joc sigui jugable amb fluidessa, i que una vegada guanyes o perds a la pantalla surti un missatge.
 
+RawGit
+https://rawgit.com/MiquelCirer/LunarLanderJavaScript/master/index.html
